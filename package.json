@@ -1,0 +1,11 @@
+{
+  "name": "dot-menu",
+  "version": "1.0.0",
+  "description": "display-o-tron raspberry pi hat menu",
+  "main": "index.js",
+  "author": "Tomas Beran",
+  "license": "MIT",
+  "dependencies": {
+    "jvsdisplayotron": "^1.1.0"
+  }
+}
